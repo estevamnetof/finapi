@@ -26,7 +26,7 @@ Node.js instalado
 NPM ou Yarn
 
 ### Instalação
-# Clone o repositório
+## Clone o repositório
 git clone https://github.com/estevamnetof/finapi.git
 
 ## Acesse a pasta do projeto
