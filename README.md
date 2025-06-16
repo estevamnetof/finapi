@@ -1,7 +1,8 @@
 # Finapi
 ## Uma API RESTful para simulação de operações bancárias básicas, desenvolvida com Node.js e Express.
 
-📋 Funcionalidades
+### 📋 Funcionalidades 
+
 ✅ Criar conta bancária
 
 ✅ Consultar extrato
@@ -18,26 +19,26 @@
 
 ✅ Filtrar extrato por data
 
-🚀 Como Executar
+### 🚀 Como Executar
 Pré-requisitos
 Node.js instalado
 
 NPM ou Yarn
 
-Instalação
+### Instalação
 # Clone o repositório
 git clone https://github.com/estevamnetof/finapi.git
 
-# Acesse a pasta do projeto
+## Acesse a pasta do projeto
 cd finapi
 
-# Instale as dependências
+## Instale as dependências
 npm install
-# ou
+### ou
 yarn install
 Iniciando a API
 npm start
-# ou
+### ou
 yarn start
 A API estará disponível em: http://localhost:3333
 
